@@ -12,7 +12,7 @@ Each project focuses on learning logic, user input, and basic algorithms.
 
 ## Languages Used
 - Visual Basic  
-- Python (for some exercises)
+- C#
 
 ## Purpose
 These exercises demonstrate foundational programming concepts, including:
