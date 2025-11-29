@@ -20,7 +20,3 @@ These exercises demonstrate foundational programming concepts, including:
 - Conditional statements (if-else)  
 - Loops and user input  
 - Basic algorithms  
-
----
-
-🧠 *Part of my ongoing learning path toward IT and cybersecurity.*
